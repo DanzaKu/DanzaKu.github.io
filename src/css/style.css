@@ -78,7 +78,7 @@ nav {
     float: none;
     margin: 110px 820px 0px 840px;
     padding: 0px 0px 32px 0px;
-    background: url(../image/%D0%A7%D0%B5%D1%80%D1%82%D0%B0%20%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.png) 30% 100%/auto 8% no-repeat;
+    background: url(../image/%D0%A7%D0%B5%D1%80%D1%82%D0%B0%20%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.png) 39% 100%/auto no-repeat;
 
 }
 
@@ -124,7 +124,7 @@ nav {
     font-size: 45px;
     margin: 0px 800px 0px;
     padding: 107px 0px 32px 0px;
-    background: url(../image/%D0%A7%D0%B5%D1%80%D1%82%D0%B0%20%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.png) 43% 100%/auto 3% no-repeat;
+    background: url(../image/%D0%A7%D0%B5%D1%80%D1%82%D0%B0%20%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.png) 43% 100%/auto no-repeat;
 
 }
 
@@ -289,7 +289,7 @@ nav {
     font-size: 45px;
     margin: 0px 700px 0px;
     padding: 104px 0px 32px 0px;
-    background: url(../image/%D0%A7%D0%B5%D1%80%D1%82%D0%B0%20%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.png) 43% 100%/auto 3% no-repeat;
+    background: url(../image/%D0%A7%D0%B5%D1%80%D1%82%D0%B0%20%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.png) 43% 100%/auto no-repeat;
 }
 
 .title_container_5 img {
@@ -323,9 +323,9 @@ nav {
     font-weight: bold;
     color: #1a2f43;
     font-size: 45px;
-    margin: 110px 800px 0px;
+    margin: 100px 800px 0px;
     padding: 0px 0px 32px 0px;
-    background: url(../image/%D0%A7%D0%B5%D1%80%D1%82%D0%B0%20%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.png) 20% 100%/auto 10% no-repeat;
+    background: url(../image/%D0%A7%D0%B5%D1%80%D1%82%D0%B0%20%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.png) 25% 100%/auto no-repeat;
 }
 
 .title_container_6 > img {
@@ -341,14 +341,14 @@ nav {
     text-align: center;
     font-size: 16px;
     color: #1a2f43;
-    margin-top: 37px;
+    margin: 37px 0px 40px 0px;
 }
 
 
 
 .main_7 {
     width: 100%;
-    height: 800px;
+    height: 950px;
     background: url(../image/%D0%A4%D0%BE%D0%BD_last.jpg) center/cover no-repeat;
 }
 
@@ -356,31 +356,34 @@ nav {
     font-weight: bold;
     color: #fff;
     font-size: 45px;
-    margin: 0px 700px 0px;
+    margin: 0px 0px 0px 750px;
     padding: 60px 0px 0px 0px;
-    background: url(../image/%D0%A7%D0%B5%D1%80%D1%82%D0%B0%20%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.png) 30% 100%/auto 6% no-repeat;
+}
+
+.title_container_7 {
+    background: url(../image/%D0%A7%D0%B5%D1%80%D1%82%D0%B0%20%D0%B7%D0%B0%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0.png) 47% 17%/auto auto no-repeat;
 }
 
 .title_container_7 h3 {
     float: left;
-    text-align:center;
+    text-align: center;
     color: #ffffff;
     font-size: 22px;
     font-weight: 300;
-    
+
 
 }
 
-.title_container_7 h4{
+.title_container_7 h4 {
     text-align: center;
     color: #ffffff;
     font-size: 36px;
     font-weight: 500;
-    margin:0px 700px 0px;
+    margin: 0px 700px 0px;
     padding-top: 200px;
 }
 
-.title_container_7 li{
+.title_container_7 li {
     display: block;
     float: left;
     margin: 91px 0px 0px 130px;
@@ -389,88 +392,50 @@ nav {
     line-height: 30px;
 }
 
-.title_container_7>p {
+.title_container_7 > p {
     color: #ffffff;
     font-size: 16px;
     text-align: center;
     padding: 30px;
-    margin-right: 100px;
+    margin-top: 50px;
 }
 
 
-.title_container_7 input {
-    display: inline;
-    float: left;
+
+.main8 input {
+    color: #acacac;
     border: 1px solid #333;
-    border-radius: 5px;
     width: 351px;
     height: 35px;
-
+    margin-top: 46px;
 }
 
-
-.main8 {
-    float: left;
-    margin: 40px 500px 0px
+.m6 {
+    margin: 0px 0px 0px 560px;
+    padding: 8px;
 }
 
-.mai8>m8{
+.m8 {
+    margin-left: 31px;
+    padding: 8px;
 }
 
-.title_container_7 textarea{
-    margin: 30px 150px;
-    width: 700px;
+.title_container_7 textarea {
+    margin: 15px 0px 0px 560px;
+    width: 735px;
     height: 150px;
     font-size: 16px;
+    padding: 10px;
+    color: #acacac;
 }
 
-.title_container input m9{
-    
+.m9 {
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    height: 46px;
+    width: 124px;
+    text-align: center;
+    color: #ffffff;
+    background: none;
+    margin: 30px 0px 0px 870px
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
